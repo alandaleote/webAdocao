@@ -1,0 +1,37 @@
+.footerStyle{
+    background-color: #ffcc57!important;
+    height: 100%;
+    width: 100%;
+    color: #2f3133;
+    text-align: center;
+    padding-top: 60px;  
+    font-family: 'Montserrat', sans-serif;
+    bottom: 5px;
+}
+.footerStyle-texts{
+    padding-top: 20px;
+    font-size: x-large;
+    font-family: Avenir;
+    text-align: center;
+    width: 100%;
+    white-space: nowrap;
+}
+    
+.social-media-icons {
+    display: flex!important;
+    justify-content: space-around;
+    padding-top: 30px;
+    align-content: center;    
+    padding-bottom: 50px;  
+    margin: auto;  
+    
+}
+.row-style{
+   width:80%;
+   margin: auto;
+   padding-bottom: 50px;
+}
+.icon-style{
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,5 +1,22 @@
+/* html{ */
+  /* overflow-x:hidden; */
+/* } */
+body{
+  display: block;
+  margin: 0px!important;
+  background-color: #3b3b3b!important;
+  font-size: 28px;
+  font-weight: 100;
+  line-height: 1.5;
+  font-family: Avenir;
+  color: #2f3133;
+  text-align: left;
+  background-color: #fff;
+  padding-left: 0px!important;
+  width: 100%!important;
+}
 .flex-box {
-  display: flexbox;
+  display: block;
   justify-content: center;
 }
 .container-box {
