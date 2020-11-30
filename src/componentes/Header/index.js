@@ -8,6 +8,7 @@ import Logo from '../../Imagens/adocaoLogo.png'
 
 function HeaderComponent() {
     return (
+        <div  id="home" className='container-header'>
           
     <Navbar bg="dark" variant="dark">
         <Navbar.Brand href="#home"><img src={Logo} height="100px"></img></Navbar.Brand> 
@@ -23,6 +24,7 @@ function HeaderComponent() {
                 <Button variant="outline-info">Login</Button>
             </Form>
       </Navbar>
+      </div>
     )
 }
 export default HeaderComponent

@@ -1,13 +1,19 @@
+.container-header{
+    width: 100%; 
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
 .bg-dark {
     background-color: #3b3b3b!important;
 }
 .btn-outline-info {
-    color: #f7f7f7!important ;
+    color: #f7f7f7!important;
     border-color: #f7f7f7!important;
 }
 .form-inline {
     color: #ffcc57!important;
-    display: flex;
+    display: block;
     flex-flow: row wrap;
     align-items: center;
 }
